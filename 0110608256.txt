@@ -4,7 +4,7 @@ bottoken=8516891010:AAEfbLXnBIt2by1JkG8wXgAjaVLYMYzx0Do
 adminchatid=-5227236701
 
 [0110608256]
-tengarage=Gara Đức Thành-0983581405
+tengarage=Gara CARO-0983581405
 chatid=7058610836
 trangthai=1
 gioihansolangui=10
@@ -16,18 +16,6 @@ kieuchuxuong=1
 canhbaogianlan=1
 mautinnhan=📊 <b>BÁO CÁO CUỐI NGÀY - GARAGE {TenGarage}</b>\n📅 Ngày: {NgayHienThi} | Giờ xuất: {GioXuat}\n\n💰 <b>1. TÀI CHÍNH & DOANH THU</b>\n• Tổng doanh thu hôm nay: {TongDoanhThu}\n• Thực thu (Tiền mặt/Ck): {ThucThu}\n• Ghi nợ phát sinh: {GhiNo}\n• Chi phí phát sinh: {ChiPhi}\n\n🚗 <b>2. VẬN HÀNH & NĂNG SUẤT</b>\n• Tổng số xe tiếp nhận: {XeNhan} xe\n• Đã hoàn thành & giao xe: {XeGiao} xe\n• Xe đang lưu kho (qua đêm): {XeTon} xe\n• Công suất kho: {CongSuatKho}%\n\n🛠️ <b>3. HIỆU SUẤT THỢ</b>\n{HieuSuatTho}\n\n⚠️ <b>4. LƯU Ý ĐẶC BIỆT từ Quản lý</b>\n<i>{GhiChuQuanLy}</i>
 
-[0123456788]
-tengarage=Gara Công Chính-0862141368
-chatid=8710447919
-trangthai=1
-gioihansolangui=10
-gioihanauto=1
-songayguibu=1
-ngaybatdau=2026-01-01
-ngayhethan=2026-12-01
-kieuchuxuong=1
-canhbaogianlan=1
-mautinnhan=📊 <b>BÁO CÁO CUỐI NGÀY - GARAGE {TenGarage}</b>\n📅 Ngày: {NgayHienThi} | Giờ xuất: {GioXuat}\n\n💰 <b>1. TÀI CHÍNH & DOANH THU</b>\n• Tổng doanh thu hôm nay: {TongDoanhThu}\n• Thực thu (Tiền mặt/Ck): {ThucThu}\n• Ghi nợ phát sinh: {GhiNo}\n• Chi phí phát sinh: {ChiPhi}\n\n🚗 <b>2. VẬN HÀNH & NĂNG SUẤT</b>\n• Tổng số xe tiếp nhận: {XeNhan} xe\n• Đã hoàn thành & giao xe: {XeGiao} xe\n• Xe đang lưu kho (qua đêm): {XeTon} xe\n• Công suất kho: {CongSuatKho}%\n\n🛠️ <b>3. HIỆU SUẤT THỢ</b>\n{HieuSuatTho}\n\n⚠️ <b>4. LƯU Ý ĐẶC BIỆT từ Quản lý</b>\n<i>{GhiChuQuanLy}</i>
 
 
 
